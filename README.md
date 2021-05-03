@@ -6,7 +6,7 @@ A Django web app, complete with user registration, sign in, password update/emai
 
 ## Installation
 
-1. Install and run the Docker ingine
+1. Install and run the Docker engine
 	- https://docs.docker.com/engine/
 2. `cd django-web-app` 
 3. Run Docker container in detached mode
